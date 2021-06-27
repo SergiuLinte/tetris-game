@@ -1,0 +1,108 @@
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\bin\Debug\Tetris.exe.config
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\bin\Debug\Tetris.exe
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\bin\Debug\Tetris.pdb
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\obj\Debug\Tetris.Launcher.resources
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\obj\Debug\Tetris.exe
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\obj\Debug\Tetris.pdb
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\obj\Debug\Tetris.Launcher.resources
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris-v2-Serjinho11-patch-1\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\obj\Debug\Tetris.Launcher.resources
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris Working bench\Tetris\obj\Debug\Tetris.Instructions.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\obj\Debug\Tetris.Instructions.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\obj\Debug\Tetris.Launcher.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.Instructions.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.Launcher.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.Instructions.resources
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.Launcher.resources
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\TETRIS chestii\Tetris Singleplayer Patches\Tetris working bench-bun\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\obj\Debug\Tetris.Instructions.resources
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\obj\Debug\Tetris.Launcher.resources
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu\Tetris game\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\obj\Debug\Tetris.Instructions.resources
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\obj\Debug\Tetris.Launcher.resources
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\30_225_Linte_Sergiu2\Tetris game\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris\bin\Debug\Tetris.exe.config
+C:\Users\Sergiu\Desktop\Tetris\bin\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Sergiu\Desktop\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\Sergiu\Desktop\Tetris\obj\Debug\Tetris.Game.resources
+C:\Users\Sergiu\Desktop\Tetris\obj\Debug\Tetris.Instructions.resources
+C:\Users\Sergiu\Desktop\Tetris\obj\Debug\Tetris.Launcher.resources
+C:\Users\Sergiu\Desktop\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\Users\Sergiu\Desktop\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+C:\Users\Sergiu\Desktop\Tetris\obj\Debug\Tetris.exe
+C:\Users\Sergiu\Desktop\Tetris\obj\Debug\Tetris.pdb
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\bin\Debug\Tetris.exe.config
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\bin\Debug\Tetris.exe
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\bin\Debug\Tetris.pdb
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\obj\Debug\Tetris.Game.resources
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\obj\Debug\Tetris.Instructions.resources
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\obj\Debug\Tetris.Launcher.resources
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\obj\Debug\Tetris.csproj.GenerateResource.cache
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\obj\Debug\Tetris.exe
+D:\Cursuri anul 2\Anul 2 Sergiu\OOP\!Tetris in culori\Tetris\obj\Debug\Tetris.pdb
